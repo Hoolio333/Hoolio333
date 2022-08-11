@@ -7,9 +7,7 @@ Welcome to my GitHub page!
 
 ### My Languages & Skills
 
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img height=50 
-src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" /> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> <img height=50 
-src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=currentColor" /> <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> 
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,git,react,postgres,prisma,nodejs)](https://skills.thijs.gg) 
 <hr>
 
 ### About Me
@@ -28,4 +26,4 @@ src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=currentCol
 <a/>
 
 <hr>
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hoolio333&theme=blueberry)](https://github.com/Hoolio333/github-readme-stats)
+
