@@ -16,6 +16,7 @@ Welcome to my GitHub page!
 
 - 🎓 Recent graduate from a full stack software developer bootcamp with <a href="https://boolean.co.uk/" target="__blank">Boolean UK</a> which contained over 900 hours 
 - 🔍 Currently looking for roles as a Full Stack Software Developer
+- 🎧 Interests are all Sports (playing & watching), music, theatre, Gaming, Travel, Current Affairs & Food!
 - 🔭 Portfolio projects see below:
 <hr>
 
