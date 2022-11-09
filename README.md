@@ -12,7 +12,7 @@ Welcome to my GitHub page!
 
 ### About Me
 
-- 👨‍💻 Full Stack Software Developer (HTML, CSS, PostgreSQL, Express, React, Node.js) with a degree in 2:1 BA degree in Business & Marketing & a background in Finance & Sports Betting
+- 👨‍💻 Full Stack Software Developer (HTML, CSS, PostgreSQL, Express, React, Node.js) with a degree in 2:1 BA Business & Marketing & a background in Finance & Sports Betting
 
 - 🎓 Recent graduate from a full stack software developer bootcamp with <a href="https://boolean.co.uk/" target="__blank">Boolean UK</a> which contained over 900 hours 
 - 🔍 Currently looking for roles as a Full Stack Software Developer
