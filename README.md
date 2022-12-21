@@ -24,6 +24,8 @@ Task Organiser / Kanban using MERN Stack:
 
 https://www.loom.com/share/cc2f3f2a0a7242fc9bdfd55e520ea991
 
+Above project was done on a different Github Repo - https://github.com/ThePurposefulProject/purposeful-kanban-app
+
 ### Reach Me
 
 <a href="https://www.linkedin.com/in/chris-hyde-22a30a245/">
