@@ -17,8 +17,10 @@ Welcome to my GitHub page!
 - 🎓 Recent graduate from a full stack software developer bootcamp with <a href="https://boolean.co.uk/" target="__blank">Boolean UK</a> which contained over 900 hours 
 - 🔍 Currently looking for roles as a Full Stack Software Developer
 - 🎧 Interests are all Sports (playing & watching), Music, Theatre, Gaming, Travel, Current Affairs & Food!
-- 🔭 Portfolio projects see below:
+- 🔭 Portfolio projects see below.
 <hr>
+
+Task Organiser / Kanban using MERN Stack:
 
 https://www.loom.com/share/cc2f3f2a0a7242fc9bdfd55e520ea991
 
